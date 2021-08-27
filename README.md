@@ -2,6 +2,7 @@
 - 👀 I’m interested in Programming and Mathematics.
 - 🌱 I’m currently learning Information Technology
 - 📫 How to reach me tharinduanupa99@gmail.com
+- SLIIT Reg No - IT20204716
 
 <!---
 TharinduAnupaHemachandra/TharinduAnupaHemachandra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
